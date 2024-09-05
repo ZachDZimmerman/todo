@@ -17,6 +17,7 @@ vendor/
 
 
 .idea
+.terraform*
 setup_test.sh
 Makefile
 deploy
